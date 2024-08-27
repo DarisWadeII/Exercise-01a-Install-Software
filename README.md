@@ -5,4 +5,4 @@ Adam Wade
 ## My github username is:
 DarisWadeII
 
-## I have installed all the software.
+## I have installed the software on my computer as a part of the exercise.
